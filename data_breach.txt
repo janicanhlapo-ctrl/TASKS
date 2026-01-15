@@ -1,1 +1,23 @@
+1. What do you think the risk is for individuals when their email addresses and passwords are exposed to the public? 
+	The risks for individuals are very high when their email addresses and passwords are exposed to the public. 
+	Looking at the CIA triad, this exposure will affect and be a threat to confidentiality, integrity and availability as attackers can take over accounts, 
+	steal personal or financial/health information, and even use this information to break into several sites especially if the same the password is reused on several sites/service.
+	 - This is a huge threat to as the criminal would be managing/taking over the individual’s digital identities. Once they are inside, 
+	   they can change passwords, change security questions thereby locking the real owner out. They can also access sensitive information 
+	   such as online banking, cloud services, social media accounts as well as personal email accounts. 
+	- There could be financial loss which is a major motivation on cyber-attacks. The criminal will be able to access and change credentials 
+	  on their banking apps; this would lead to theft of funds, opening loans or accessing saved credit card details and the individual would
+	  be unable to access or stop the theft through their banking app. 
+	- There will also be data privacy breaches where the criminal will have access to other personal and sensitive information related to an individual’s health as well. 
+	- The individual would also be a major target for email scams, phishing if the criminal notices that the email address is active on certain websites/services. 
+	  The criminal would be able to use the stolen information to build trust, create urgency while using social engineering to trick the individual into supplying 
+	  more data or even downloading malware. 
+	- The individual can be exposed to financial malware which is a cyber-dependent attack. The criminal can send malware attachments and even fake login pages 
 
+
+2. Name two actions you can take to protect yourself against the risks associated with data breaches.
+  - Scan you system and ensure that you update your antivirus software frequently. Scanning your sytems for malware is helpful even though an attack may not be detected 
+   as malware is often designed to evade antivirus applications. So, when choosing an anti-virus packaage one has to take into consideration their needs.
+   - One has to be aware of social engineering and system anomalies. By developing one's social engineering, you will be able to protect your information as you would need to 
+   always be alert to tactics that a cyber criminal may use i.e. the use of urgency, trust and even emotional manipulating one to provide sensitive information or even downloading
+   a maliscious file. And also pay attention to your computer's performance or even changes to your browser's homepage. 
